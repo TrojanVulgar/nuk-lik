@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\python-virus-master"
+		},
+		{
+			"path": "..\\python-ransomware-master"
+		},
+		{
+			"path": "..\\desktop-monitor-master"
+		}
+	],
+	"settings": {}
+}
